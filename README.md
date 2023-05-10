@@ -1,9 +1,8 @@
 # Image Format Converter
-This script converts images from one format to another. It takes a source folder, a new folder, and the desired image format as command line arguments.
-	 
-Requirements
-Python 3.x
-Pillow library (pip install Pillow)
+This script converts images from one format to another. It takes a source folder, a new folder, and the desired image format as command line arguments.	 
+## Requirements
+- Python 3.x
+- Pillow library (pip install Pillow)
 Usage
 Save the script to a file (e.g. convert.py).
 Open a command prompt or terminal and navigate to the directory where you saved the script.
